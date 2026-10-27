@@ -4,6 +4,19 @@
 
 本站是非官方学习项目，不代表 Anthropic。课程不是官方文档的逐页翻译；每个专题都提供官方原文入口与核对日期，产品功能、账号要求和预览状态以官方页面为准。
 
+## 在线阅读与源码
+
+- **在线手册**：<https://bigdragonz.github.io/claude_start/>
+- **GitHub 仓库**：<https://github.com/BigDragonZ/claude_start>
+- **使用说明**：仓库根目录的 `README.md`。
+
+克隆源码：
+
+```bash
+git clone https://github.com/BigDragonZ/claude_start.git
+cd claude_start
+```
+
 ## 使用要求
 
 阅读网站只需要一个支持 HTML5、CSS3 和 JavaScript 的现代浏览器，无需安装 Claude Code、Node.js 或任何网站依赖。
